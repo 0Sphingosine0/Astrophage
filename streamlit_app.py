@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Astrophage Detector(˶˃ ᵕ ˂˶)")
+st.title("Astrophage Detector")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
